@@ -15,3 +15,7 @@ Aqui é possível realizar N chamadas ao PlatEMO para combinações de parâmetr
 Versões utilizadas:
 MATLAB R2023a
 PlatEMO v4.1
+
+
+Coordenador: Prof. Dr. Emerson Carlos Pedrino (UFSCar)
+Colaboradores: Prof. Dr. Marcio Merino Fernandes (UFSCar), Prof. Dr. Gianluca Tempesti (The University of York), Prof. Dr. Valentin Obac Roda (UFRN), Igor Gallon (UFSCar). 
