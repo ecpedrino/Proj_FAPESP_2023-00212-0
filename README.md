@@ -1,3 +1,5 @@
+"Simulador de Arquitetura Manycore para Estudos de Mapeamento Inteligente de Aplicações baseadas em Grafos"
+
 1. Descompactar o arquivo .zip.
 2. Abrir a pasta MCTOR no Matlab.
 3. Executar o comando mctor_gui() a partir da pasta MCTOR/.
